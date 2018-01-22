@@ -1,2 +1,2 @@
 # py-cat
-python snippets
+python scripts and snippets to remember
