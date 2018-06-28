@@ -4,8 +4,8 @@
 #with your own api keys and secrets
 #Get them signing up at https://apps.twitter.com
 
-#Install twitter module with 
-#'pip install python-twitter' 
+#Install required modules with 
+#'pip install -r requirements.txt' 
 
 import configparser
 import os
